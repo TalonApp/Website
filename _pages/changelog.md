@@ -10,56 +10,77 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Version 1.3.1**
+Improves the Talon experience.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Minor text updates related to IFTTT support
+- Reintroduced support for iOS 13 users
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
+________
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+# **Version 1.3**
+Additional new features for Talon.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Introducing our brand new link shortener, talon.link. We developed it in house, for our loyal Talon Pro users to enjoy. Give it a go!
+- We've added support for a new service, IFTTT! With IFTTT, you can execute prebuilt actions for basically anything on the web, from something as basic as sending a tweet, or something more intricate, like sending an email.
+- Re-introducing custom App Icons! They were removed in a previous update, but they're now back - with some new icons from the community.
+- We updated the keyboard layout to use the typical one you'd see across iOS, rather than the weird one optimized for entering emails.
+- Optimized for iOS 15 & macOS Monterey
 
 <br>
 
 ________
 <br>
 
-### `Initial Release`
+# **Version 1.2.1**
+Bug fixes for Talon.
+
+#### What's New
+- Fixed critical issue where Link Shortening would no longer work
+- Minor user interface improvements and changes
+
+<br>
+
+________
+<br>
+
+# **Version 1.2**
+Introducing Talon Pro.
+
+#### What's New
+- Talon Pro is an expansion on the current features of Talon. Talon Pro allows you to shorten links, and more! It's $1.99 USD - but more features will be coming to Talon Pro in later updates.
+- We've also added custom webhooks to the app! You can now run whatever POST Request you'd like.
+
+<br>
+
+
+________
+<br>
+
+# **Version 1.1**
+Pretty cool update.
+
+#### What's New
+- You can now save your webhook links inside of the app
+- Tip Jar is now located in settings, for convenient donation
+- We've cut down on resources, to make the app smaller in size.
+
+<br>
+
+
+
+________
+<br>
+
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+Initial Release
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Launch took place on June 28th, 2020! Been quite a journey since then.
 
 <br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
 <br>
