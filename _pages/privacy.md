@@ -9,7 +9,7 @@ November 1st, 2022
 
 # Privacy Policy
 
-As a developer, I do not believe in collecting and selling personal user data. Privacy matters to me. That's why we don't collect too much data from Ruby.
+As a developer, I do not believe in collecting and selling personal user data. Privacy matters to me. That's why we don't collect too much data from Talon.
 
 ## Analytics
 
