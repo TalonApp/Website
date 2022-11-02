@@ -17,6 +17,7 @@ Improves the Talon experience.
 - Minor text updates related to IFTTT support
 - Reintroduced support for iOS 13 users
 
+<br>
 ________
 <br>
 
